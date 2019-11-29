@@ -7,7 +7,7 @@ import java.net.URL;
 import java.util.Scanner;
 
 public class GeocodingAPI {
-    private static final String API_KEY = "";
+    private static final String API_KEY = "AIzaSyCzYqyJEJUL20LMUXS-wG7RtZysMlMbcMM";
 
     public static String search(String address,String postcode) {
         URL url = null;
